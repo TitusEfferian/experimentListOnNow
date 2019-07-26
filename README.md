@@ -1,2 +1,6 @@
-# experimentListOnNow
-my list of experiment sub domain using now
+- [animasi] (https://bounce.titusefferian.now.sh) 
+- [GraphQL] (https://graphql.titusefferian.now.sh)
+- [landing page] (https://titusefferian.now.sh)
+- [web scrapping] (https://tokolapak.titusefferian.now.sh)
+- [machine learning] (https://liniear-regression.titusefferian.now.sh) 
+- [object detection] (https://object-detection.titusefferian.now.sh)
